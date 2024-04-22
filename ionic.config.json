@@ -1,0 +1,7 @@
+{
+  "name": "pro-ooenlhw",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
