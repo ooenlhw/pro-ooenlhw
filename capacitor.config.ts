@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'pro-ooenlhw',
+  appId: 'en.beastmode.on',
+  appName: 'Beastmode On',
   webDir: 'www'
 };
 
